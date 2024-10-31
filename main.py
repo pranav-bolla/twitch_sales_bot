@@ -17,10 +17,10 @@ logging.basicConfig(
     handlers=[logging.StreamHandler()]
 )
 
-# Get credentials from environment variables
-CLIENT_ID = os.getenv('CLIENT_ID')
-CLIENT_SECRET = os.getenv('CLIENT_SECRET')
-BOT_TOKEN = os.getenv('BOT_TOKEN')
+# Your Twitch credentials
+CLIENT_ID = '1m7da2v2fpqz1wjlr97fqc8bcu0ofk'
+CLIENT_SECRET = 'rk96cphwla8qgm0t10tldt93bjbkp2'
+BOT_TOKEN = 'oauth:yunxg2byn125nc5e5pfvk0b3yccach'
 
 # Constants
 BATCH_SIZE = 20  # Number of channels to join at once
@@ -134,7 +134,6 @@ CHANNELS_TO_MONITOR = [
 
 class Bot(commands.Bot):
     def __init__(self):
-        # Start with just first channel to initialize
         super().__init__(
             token=BOT_TOKEN,
             prefix='!',
@@ -177,16 +176,29 @@ class Bot(commands.Bot):
 
     async def check_stream_status(self, channel):
         """Check if a channel is live using raw API call"""
-        token = await self.get_access_token()
-        headers = {
-            'Client-ID': CLIENT_ID,
-            'Authorization': f'Bearer {token}'
-        }
-        
-        url = f'https://api.twitch.tv/helix/streams?user_login={channel}'
-        async with self._http.session.get(url, headers=headers) as resp:
-            data = await resp.json()
-            return len(data.get('data', [])) > 0
+        try:
+            token = await self.get_access_token()
+            headers = {
+                'Client-ID': CLIENT_ID,
+                'Authorization': f'Bearer {token}'
+            }
+            
+            url = f'https://api.twitch.tv/helix/streams?user_login={channel}'
+            async with self._http.session.get(url, headers=headers) as resp:
+                if resp.status != 200:
+                    logging.error(f"API Error for {channel}: Status {resp.status}")
+                    return False
+                    
+                data = await resp.json()
+                streams = data.get('data', [])
+                if streams:
+                    stream_info = streams[0]
+                    logging.info(f"Stream info for {channel}: Type={stream_info.get('type')}, Viewer Count={stream_info.get('viewer_count')}")
+                return bool(streams)
+
+        except Exception as e:
+            logging.error(f"Error checking status for {channel}: {str(e)}")
+            return False
 
     async def event_ready(self):
         """Called when bot is ready."""
@@ -210,12 +222,17 @@ class Bot(commands.Bot):
                     was_live = self.last_live_status.get(channel, False)
 
                     if is_live and not was_live:
-                        await self.send_live_message(channel)
-                        self.last_live_status[channel] = True
-                        logging.info(f"{channel} went live!")
+                        # Double check to prevent false positives
+                        await asyncio.sleep(5)  # Wait 5 seconds
+                        is_still_live = await self.check_stream_status(channel)
+                        if is_still_live:
+                            await self.send_live_message(channel)
+                            self.last_live_status[channel] = True
+                            logging.info(f"{channel} went live!")
                     elif not is_live and was_live:
                         self.last_live_status[channel] = False
                         logging.info(f"{channel} went offline")
+
                 except Exception as e:
                     logging.error(f'Error checking status for {channel}: {e}')
 
@@ -226,6 +243,17 @@ class Bot(commands.Bot):
     @routines.routine(seconds=60)
     async def check_streams_routine(self):
         await self.check_streams()
+
+    async def event_message(self, message):
+        """Runs every time a message is sent in chat."""
+        # Ignore messages from the bot itself
+        if message.echo:
+            return
+
+        # Only process messages that start with our prefix and are our commands
+        if message.content.startswith('!'):
+            if message.content.lower() == '!hello':
+                await self.hello_command(message.channel, message)
 
     async def send_live_message(self, channel):
         """Send a message when a channel goes live."""
@@ -239,15 +267,60 @@ class Bot(commands.Bot):
         ]
         
         try:
+            # Check if channel is in followers-only mode
+            token = await self.get_access_token()
+            headers = {
+                'Client-ID': CLIENT_ID,
+                'Authorization': f'Bearer {token}'
+            }
+            
+            # Get channel ID first
+            url = f'https://api.twitch.tv/helix/users?login={channel}'
+            async with self._http.session.get(url, headers=headers) as resp:
+                data = await resp.json()
+                if not data.get('data'):
+                    logging.error(f'Could not get channel ID for {channel}')
+                    return
+                channel_id = data['data'][0]['id']
+
+            # Check chat settings
+            url = f'https://api.twitch.tv/helix/chat/settings?broadcaster_id={channel_id}'
+            async with self._http.session.get(url, headers=headers) as resp:
+                data = await resp.json()
+                if data.get('data'):
+                    chat_settings = data['data'][0]
+                    if chat_settings.get('follower_mode'):
+                        logging.info(f"Skipping {channel} - followers-only mode enabled")
+                        return
+                    if chat_settings.get('subscriber_mode'):
+                        logging.info(f"Skipping {channel} - subscribers-only mode enabled")
+                        return
+                    if chat_settings.get('emote_mode'):
+                        logging.info(f"Skipping {channel} - emote-only mode enabled")
+                        return
+                    if chat_settings.get('slow_mode'):
+                        logging.info(f"Channel {channel} has slow mode enabled - continuing anyway")
+
+            # Get channel object and verify it's still live
             channel_obj = self.get_channel(channel)
             if channel_obj:
+                is_still_live = await self.check_stream_status(channel)
+                if not is_still_live:
+                    logging.info(f"Channel {channel} went offline before sending message")
+                    return
+
                 message = random.choice(messages)
                 await channel_obj.send(message)
                 logging.info(f'Sent message to {channel}: {message}')
             else:
                 logging.error(f'Could not get channel object for {channel}')
+                
+        except twitchio.errors.AuthenticationError:
+            logging.error(f"Authentication error for {channel} - might be banned or chat restricted")
         except Exception as e:
             logging.error(f'Error sending message to {channel}: {e}')
+            if 'followers-only' in str(e).lower():
+                logging.info(f"Channel {channel} appears to be in followers-only mode")
 
     @commands.command(name='hello')
     async def hello_command(self, ctx):
@@ -255,11 +328,6 @@ class Bot(commands.Bot):
         await ctx.send(f'Hello {ctx.author.name}! 👋')
 
 async def main():
-    # Verify environment variables
-    if not all([CLIENT_ID, CLIENT_SECRET, BOT_TOKEN]):
-        logging.error("Missing required environment variables. Check your .env file!")
-        return
-        
     bot = Bot()
     
     try:
