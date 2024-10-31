@@ -1,0 +1,235 @@
+2024-10-31 15:32:21,681 - INFO - Bot started
+2024-10-31 15:32:21,815 - ERROR - Error searching tweets: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product
+2024-10-31 15:32:21,926 - ERROR - Error searching tweets: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product
+2024-10-31 15:32:22,037 - ERROR - Error searching tweets: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product
+2024-10-31 15:35:19,660 - INFO - Bot started
+2024-10-31 15:35:19,798 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:35:19,843 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:35:19,885 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:41:30,745 - INFO - Bot started
+2024-10-31 15:41:30,937 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:41:30,984 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:41:31,028 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:41:56,734 - INFO - Bot started
+2024-10-31 15:41:56,901 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:41:56,937 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:41:56,974 - ERROR - Error searching tweets: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:44:13,114 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 15:44:13,114 - INFO - Bot started
+2024-10-31 15:44:13,115 - INFO - Searching for: going live on twitch -is:retweet
+2024-10-31 15:44:13,152 - ERROR - Authorization Error: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:44:13,152 - ERROR - Please check your API access level and permissions
+2024-10-31 15:44:13,152 - ERROR - Error in main loop: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:44:13,152 - INFO - Waiting 60 seconds before retry...
+2024-10-31 15:45:13,212 - INFO - Searching for: going live on twitch -is:retweet
+2024-10-31 15:45:13,252 - ERROR - Authorization Error: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:45:13,252 - ERROR - Please check your API access level and permissions
+2024-10-31 15:45:13,252 - ERROR - Error in main loop: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:45:13,252 - INFO - Waiting 60 seconds before retry...
+2024-10-31 15:45:51,863 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 15:45:51,864 - INFO - Bot started
+2024-10-31 15:45:51,864 - INFO - Searching for: going live on twitch -is:retweet
+2024-10-31 15:45:51,906 - ERROR - Authorization Error: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:45:51,906 - ERROR - Please check your API access level and permissions
+2024-10-31 15:45:51,906 - ERROR - Error in main loop: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:45:51,906 - INFO - Waiting 60 seconds before retry...
+2024-10-31 15:46:01,917 - INFO - Searching for: going live on twitch -is:retweet
+2024-10-31 15:46:02,100 - ERROR - Authorization Error: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:46:02,100 - ERROR - Please check your API access level and permissions
+2024-10-31 15:46:02,100 - ERROR - Error in main loop: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:46:02,100 - INFO - Waiting 60 seconds before retry...
+2024-10-31 15:46:12,111 - INFO - Searching for: going live on twitch -is:retweet
+2024-10-31 15:46:12,147 - ERROR - Authorization Error: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:46:12,147 - ERROR - Please check your API access level and permissions
+2024-10-31 15:46:12,147 - ERROR - Error in main loop: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:46:12,147 - INFO - Waiting 60 seconds before retry...
+2024-10-31 15:46:22,158 - INFO - Searching for: going live on twitch -is:retweet
+2024-10-31 15:46:22,202 - ERROR - Authorization Error: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:46:22,202 - ERROR - Please check your API access level and permissions
+2024-10-31 15:46:22,202 - ERROR - Error in main loop: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 15:46:22,202 - INFO - Waiting 60 seconds before retry...
+2024-10-31 15:48:42,262 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 15:48:42,297 - ERROR - Could not find user your_favorite_streamer1: 401 Unauthorized
+Unauthorized
+2024-10-31 15:48:42,331 - ERROR - Could not find user your_favorite_streamer2: 401 Unauthorized
+Unauthorized
+2024-10-31 15:48:42,331 - INFO - Bot started
+2024-10-31 15:48:42,366 - ERROR - Error checking mentions: 401 Unauthorized
+Unauthorized
+2024-10-31 15:48:42,366 - INFO - Waiting 60 seconds before next check...
+2024-10-31 15:48:48,713 - INFO - Bot stopped by user
+2024-10-31 15:52:08,883 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 15:52:08,884 - INFO - Bot started
+2024-10-31 15:52:08,884 - INFO - Searching with query: "going live on twitch" OR "starting stream on twitch" OR "twitch.tv/" OR "streaming live on twitch" OR "🎮 live now" OR "starting my stream" OR "going live now" since:2024-10-31_19:42:08_UTC -filter:replies -filter:retweets
+2024-10-31 15:52:08,885 - INFO - Retrieving scroll page None
+2024-10-31 15:52:08,885 - INFO - Retrieving guest token
+2024-10-31 15:52:08,887 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click
+2024-10-31 15:52:08,958 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), retrying
+2024-10-31 15:52:08,958 - INFO - Waiting 1 seconds
+2024-10-31 15:52:09,962 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click
+2024-10-31 15:52:10,038 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), retrying
+2024-10-31 15:52:10,039 - INFO - Waiting 2 seconds
+2024-10-31 15:52:12,044 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click
+2024-10-31 15:52:12,126 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), retrying
+2024-10-31 15:52:12,126 - INFO - Waiting 4 seconds
+2024-10-31 15:52:16,132 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click
+2024-10-31 15:52:16,202 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))"))
+2024-10-31 15:52:16,203 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click failed, giving up.
+2024-10-31 15:52:16,203 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))"))
+2024-10-31 15:52:16,203 - ERROR - Error searching tweets: 4 requests to https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A42%3A08_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click failed, giving up.
+2024-10-31 15:52:16,203 - INFO - Waiting before next search...
+2024-10-31 15:52:21,572 - INFO - Bot stopped by user
+2024-10-31 15:54:55,225 - INFO - SSL context created successfully
+2024-10-31 15:54:55,393 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 15:54:55,393 - INFO - Bot started
+2024-10-31 15:54:55,394 - INFO - Searching with query: "going live on twitch" OR "starting stream on twitch" OR "twitch.tv/" OR "streaming live on twitch" OR "🎮 live now" OR "starting my stream" OR "going live now" since:2024-10-31_19:44:55_UTC -filter:replies -filter:retweets
+2024-10-31 15:54:55,394 - INFO - Retrieving scroll page None
+2024-10-31 15:54:55,395 - INFO - Retrieving guest token
+2024-10-31 15:54:55,397 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click
+2024-10-31 15:54:55,466 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), retrying
+2024-10-31 15:54:55,466 - INFO - Waiting 1 seconds
+2024-10-31 15:54:56,470 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click
+2024-10-31 15:54:56,541 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), retrying
+2024-10-31 15:54:56,541 - INFO - Waiting 2 seconds
+2024-10-31 15:54:58,545 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click
+2024-10-31 15:54:58,660 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), retrying
+2024-10-31 15:54:58,660 - INFO - Waiting 4 seconds
+2024-10-31 15:55:02,666 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click
+2024-10-31 15:55:02,737 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))"))
+2024-10-31 15:55:02,738 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click failed, giving up.
+2024-10-31 15:55:02,738 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)')))"))
+2024-10-31 15:55:02,738 - ERROR - Error searching tweets: 4 requests to https://twitter.com/search?f=live&lang=en&q=%22going+live+on+twitch%22+OR+%22starting+stream+on+twitch%22+OR+%22twitch.tv%2F%22+OR+%22streaming+live+on+twitch%22+OR+%22%F0%9F%8E%AE+live+now%22+OR+%22starting+my+stream%22+OR+%22going+live+now%22+since%3A2024-10-31_19%3A44%3A55_UTC+-filter%3Areplies+-filter%3Aretweets&src=spelling_expansion_revert_click failed, giving up.
+2024-10-31 15:55:02,738 - INFO - Waiting before next search...
+2024-10-31 15:56:02,452 - INFO - Bot stopped by user
+2024-10-31 15:56:13,264 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 15:56:13,264 - INFO - Bot started
+2024-10-31 15:56:18,333 - WARNING - Instance https://nitter.net failed: HTTPSConnectionPool(host='nitter.net', port=443): Max retries exceeded with url: /search (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1be8813250>, 'Connection to nitter.net timed out. (connect timeout=5)'))
+2024-10-31 15:56:22,380 - INFO - Using Nitter instance: https://nitter.cz
+2024-10-31 15:56:22,380 - INFO - Searching for: going live on twitch
+2024-10-31 15:56:22,495 - INFO - Searching for: starting stream on twitch
+2024-10-31 15:56:22,605 - INFO - Searching for: twitch.tv/
+2024-10-31 15:56:22,719 - INFO - Searching for: streaming live on twitch
+2024-10-31 15:56:22,828 - INFO - Searching for: 🎮 live now
+2024-10-31 15:56:22,997 - INFO - Searching for: starting my stream
+2024-10-31 15:56:23,204 - INFO - Searching for: going live now
+2024-10-31 15:56:23,405 - INFO - Waiting before next search...
+2024-10-31 15:57:24,365 - WARNING - Instance https://nitter.net failed: HTTPSConnectionPool(host='nitter.net', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1be87e63d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2024-10-31 15:57:24,667 - INFO - Using Nitter instance: https://nitter.cz
+2024-10-31 15:57:24,667 - INFO - Searching for: going live on twitch
+2024-10-31 15:57:24,776 - INFO - Searching for: starting stream on twitch
+2024-10-31 15:57:24,885 - INFO - Searching for: twitch.tv/
+2024-10-31 15:57:24,994 - INFO - Searching for: streaming live on twitch
+2024-10-31 15:57:25,107 - INFO - Searching for: 🎮 live now
+2024-10-31 15:57:25,217 - INFO - Searching for: starting my stream
+2024-10-31 15:57:25,327 - INFO - Searching for: going live now
+2024-10-31 15:57:25,436 - INFO - Waiting before next search...
+2024-10-31 15:58:30,522 - WARNING - Instance https://nitter.net failed: HTTPSConnectionPool(host='nitter.net', port=443): Max retries exceeded with url: /search (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1be87c83d0>, 'Connection to nitter.net timed out. (connect timeout=5)'))
+2024-10-31 15:58:30,828 - INFO - Using Nitter instance: https://nitter.cz
+2024-10-31 15:58:30,828 - INFO - Searching for: going live on twitch
+2024-10-31 15:58:30,940 - INFO - Searching for: starting stream on twitch
+2024-10-31 15:58:31,091 - INFO - Searching for: twitch.tv/
+2024-10-31 15:58:31,255 - INFO - Searching for: streaming live on twitch
+2024-10-31 15:58:31,396 - INFO - Searching for: 🎮 live now
+2024-10-31 15:58:32,498 - INFO - Searching for: starting my stream
+2024-10-31 15:58:32,625 - INFO - Searching for: going live now
+2024-10-31 15:58:32,736 - INFO - Waiting before next search...
+2024-10-31 15:59:26,469 - INFO - Bot stopped by user
+2024-10-31 15:59:55,990 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 15:59:55,991 - INFO - Bot started
+2024-10-31 15:59:56,339 - INFO - Switched to Nitter instance: https://nitter.cz
+2024-10-31 16:00:40,979 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 16:00:40,979 - INFO - Bot started
+2024-10-31 16:00:45,992 - WARNING - Instance https://nitter.net failed: HTTPSConnectionPool(host='nitter.net', port=443): Max retries exceeded with url: /search (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1f30f9b2b0>, 'Connection to nitter.net timed out. (connect timeout=5)'))
+2024-10-31 16:00:47,080 - INFO - Using Nitter instance: https://nitter.cz
+2024-10-31 16:00:47,080 - INFO - Searching for: going live on twitch
+2024-10-31 16:00:47,251 - INFO - Searching for: starting stream on twitch
+2024-10-31 16:00:47,395 - INFO - Searching for: twitch.tv
+2024-10-31 16:00:47,508 - INFO - Searching for: streaming live on twitch
+2024-10-31 16:00:47,657 - INFO - Searching for: live now
+2024-10-31 16:00:47,798 - INFO - Searching for: starting my stream
+2024-10-31 16:00:47,907 - INFO - Searching for: going live now
+2024-10-31 16:00:48,030 - INFO - Searching for: streaming
+2024-10-31 16:00:48,209 - INFO - Searching for: going live
+2024-10-31 16:00:48,404 - INFO - Waiting before next search...
+2024-10-31 16:01:50,021 - WARNING - Instance https://nitter.net failed: HTTPSConnectionPool(host='nitter.net', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1f30f84c10>: Failed to establish a new connection: [Errno 113] No route to host'))
+2024-10-31 16:01:50,326 - INFO - Using Nitter instance: https://nitter.cz
+2024-10-31 16:01:50,326 - INFO - Searching for: going live on twitch
+2024-10-31 16:01:50,436 - INFO - Searching for: starting stream on twitch
+2024-10-31 16:01:50,544 - INFO - Searching for: twitch.tv
+2024-10-31 16:01:50,651 - INFO - Searching for: streaming live on twitch
+2024-10-31 16:01:50,760 - INFO - Searching for: live now
+2024-10-31 16:01:50,868 - INFO - Searching for: starting my stream
+2024-10-31 16:01:50,976 - INFO - Searching for: going live now
+2024-10-31 16:01:51,084 - INFO - Searching for: streaming
+2024-10-31 16:01:51,194 - INFO - Searching for: going live
+2024-10-31 16:01:51,355 - INFO - Waiting before next search...
+2024-10-31 16:02:28,215 - INFO - Bot stopped by user
+2024-10-31 16:02:29,858 - INFO - Successfully authenticated as @pranavbol
+2024-10-31 16:02:29,858 - INFO - Bot started
+2024-10-31 16:02:32,240 - WARNING - Instance https://nitter.net failed: HTTPSConnectionPool(host='nitter.net', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb4dea090d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2024-10-31 16:02:34,852 - INFO - Using Nitter instance: https://nitter.cz
+2024-10-31 16:02:34,852 - INFO - Searching for: going live on twitch
+2024-10-31 16:02:34,962 - INFO - Searching for: starting stream on twitch
+2024-10-31 16:02:35,072 - INFO - Searching for: twitch.tv
+2024-10-31 16:02:35,185 - INFO - Searching for: streaming live on twitch
+2024-10-31 16:02:35,294 - INFO - Searching for: live now
+2024-10-31 16:02:35,404 - INFO - Searching for: starting my stream
+2024-10-31 16:02:35,514 - INFO - Searching for: going live now
+2024-10-31 16:02:35,623 - INFO - Searching for: streaming
+2024-10-31 16:02:35,733 - INFO - Searching for: going live
+2024-10-31 16:02:35,844 - INFO - Waiting before next search...
+2024-10-31 16:03:40,910 - WARNING - Instance https://nitter.net failed: HTTPSConnectionPool(host='nitter.net', port=443): Max retries exceeded with url: /search (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb4de9efa90>, 'Connection to nitter.net timed out. (connect timeout=5)'))
+2024-10-31 16:03:41,216 - INFO - Using Nitter instance: https://nitter.cz
+2024-10-31 16:03:41,216 - INFO - Searching for: going live on twitch
+2024-10-31 16:03:41,327 - INFO - Searching for: starting stream on twitch
+2024-10-31 16:03:41,436 - INFO - Searching for: twitch.tv
+2024-10-31 16:03:41,545 - INFO - Searching for: streaming live on twitch
+2024-10-31 16:03:41,653 - INFO - Searching for: live now
+2024-10-31 16:03:41,762 - INFO - Searching for: starting my stream
+2024-10-31 16:03:41,872 - INFO - Searching for: going live now
+2024-10-31 16:03:41,982 - INFO - Searching for: streaming
+2024-10-31 16:03:42,092 - INFO - Searching for: going live
+2024-10-31 16:03:42,205 - INFO - Waiting before next search...
+2024-10-31 16:04:47,276 - WARNING - Instance https://nitter.net failed: HTTPSConnectionPool(host='nitter.net', port=443): Max retries exceeded with url: /search (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb4de9713d0>, 'Connection to nitter.net timed out. (connect timeout=5)'))
+2024-10-31 16:04:47,576 - INFO - Using Nitter instance: https://nitter.cz
+2024-10-31 16:04:47,576 - INFO - Searching for: going live on twitch
+2024-10-31 16:04:47,685 - INFO - Searching for: starting stream on twitch
+2024-10-31 16:04:47,794 - INFO - Searching for: twitch.tv
+2024-10-31 16:04:47,906 - INFO - Searching for: streaming live on twitch
+2024-10-31 16:04:48,016 - INFO - Searching for: live now
+2024-10-31 16:04:48,126 - INFO - Searching for: starting my stream
+2024-10-31 16:04:48,236 - INFO - Searching for: going live now
+2024-10-31 16:04:48,345 - INFO - Searching for: streaming
+2024-10-31 16:04:48,455 - INFO - Searching for: going live
+2024-10-31 16:04:48,565 - INFO - Waiting before next search...
+2024-10-31 16:05:04,539 - INFO - Bot stopped by user
+2024-10-31 16:05:05,262 - ERROR - Error in main: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 16:05:10,554 - ERROR - Error in main: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+2024-10-31 16:05:15,660 - ERROR - Error in main: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
